@@ -1,0 +1,28 @@
+body{
+  background: #081e30;
+  color: #fff;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,li{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+.container{
+  max-width: 1500px;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.font-poppins{
+  font-family: 'Poppins', sans-serif;
+}
